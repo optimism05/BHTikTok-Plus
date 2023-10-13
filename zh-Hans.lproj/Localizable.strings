@@ -41,7 +41,7 @@
 "CopyMusicsLink" = "复制音乐链接";
 "CopyMusicsLinkDesc" = "添加复制音乐链接的按钮";
 "GroupMenuItems" = "菜单项分组";
-"GroupMenuItemsDesc" = "将菜单项分组为“下载”和“复制信息”子菜单";
+"GroupMenuItemsDesc" = "将“下载按钮”菜单项分组为“下载”和“复制信息”子菜单";
 "CompactProgress" = "紧凑进度条";
 "CompactProgressDesc" = "在屏幕底部显示一个紧凑的下载进度条";
 "RemoveWatermark" = "禁用水印";
