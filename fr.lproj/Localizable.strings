@@ -40,10 +40,10 @@
 "CopyVideosLinkDesc" = "Ajoute un bouton pour copier les liens vidéo";
 "CopyMusicsLink" = "Copier le lien musical";
 "CopyMusicsLinkDesc" = "Ajoute un bouton pour copier les liens musicaux";
-"GroupMenuItems" = "Group Menu Items";
-"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
-"CompactProgress" = "Compact Progress Bar";
-"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
+"GroupMenuItems" = "Éléments du menu de groupe";
+"GroupMenuItemsDesc" = "Regroupe les éléments de menu dans les sous-menus Télécharger et Copier les informations.";
+"CompactProgress" = "Barre de progression compacte";
+"CompactProgressDesc" = "Affiche une barre de progression de téléchargement compacte en bas de l'écran";
 "RemoveWatermark" = "Désactiver les filigranes";
 "RemoveWatermarkDesc" = "Utile si vous souhaitez télécharger des vidéos sans filigrane depuis le menu standard de TikTok";
 "DownloadProfileHeader" = "Profil";
@@ -66,18 +66,18 @@
 "HideUIDesc" = "Ajoute un bouton pour masquer/afficher les boutons de l'interface";
 "UploadRegion" = "Afficher le pays de téléchargement";
 "UploadRegionDesc" = "Affiche le drapeau du pays de téléchargement de la vidéo à côté du nom d'utilisateur";
-"NoPullToRefresh" = "Disable Pull To Refresh";
-"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
+"NoPullToRefresh" = "Désactiver l'extraction pour actualiser";
+"NoPullToRefreshDesc" = "Désactive le geste pour actualiser le flux en tirant vers le bas sur la première page";
 "ShowUsername" = "Afficher le nom d'utilisateur";
 "ShowUsernameDesc" = "Affiche le nom d'utilisateur au lieu du surnom, comme c'était le cas dans les anciennes versions";
 "TransparentComms" = "Commentaires semi-transparents";
 "TransparentCommsDesc" = "Rend l'arrière-plan de la fenêtre de commentaires semi-transparent, vous permettant de lire les commentaires tout en regardant des vidéos";
 "ClearLinks" = "Effacer les liens";
 "ClearLinksDesc" = "Supprime le suivi des liens partagés depuis votre compte";
-"NoWarnings" = "Disable Warnings";
-"NoWarningsDesc" = "Removes the warning message under the video description";
+"NoWarnings" = "Désactiver les avertissements";
+"NoWarningsDesc" = "Supprime le message d'avertissement sous la description de la vidéo";
 "SkipRecs" = "Ignorer les recommandations";
-"SkipLive" = "Disable Live Broadcasts";
+"SkipLive" = "Désactiver les diffusions en direct";
 "ShowProgressBar" = "Afficher la barre de progression";
 "PlaybackAction" = "Action après la fin de la lecture vidéo";
 "Replay" = "Répéter";
@@ -213,10 +213,10 @@
 "PadlockDesc" = "Nécessite un mot de passe pour déverrouiller l'application";
 "Cache" = "Vider le cache";
 "Cleared" = "Fait\nEffacé %@";
-"FixInteractions" = "Fix Interactions";
-"FixInteractionsDesc" = "Removes all data, including suspicious activity, thus restoring the ability to subscribe, like, and comment media";
-"FixInteractionsMsg" = "THIS ACTION CANNOT BE UNDONE.\n\nAll data, including: Authorization data, App settings, Tweaks settings and All existing drafts will be deleted.\n\nAre you sure you want to continue?";
-"RestartApp" = "Done.\nApp restart required";
+"FixInteractions" = "Corriger les interactions";
+"FixInteractionsDesc" = "Supprime toutes les données, y compris les activités suspectes, rétablissant ainsi la possibilité de s'abonner, d'aimer et de commenter les médias";
+"FixInteractionsMsg" = "CETTE ACTION NE PEUT PAS ÊTRE ANNULÉE.\n\nToutes les données, y compris: les données d'autorisation, les paramètres de l'application, les paramètres des réglages et tous les brouillons existants, seront supprimés.\n\nÊtes-vous sûr de vouloir continuer?";
+"RestartApp" = "Terminé.\nRedémarrage de l'application requis";
 
 /* Special Thanks */
 "Arabic" = "Localisation arabe";
@@ -226,7 +226,7 @@
 "French" = "Localisation française";
 "Vietnamese" = "Localisation vietnamienne";
 "Turkish" = "Localisation turque";
-"Japanese" = "Japanese localization";
+"Japanese" = "Localisation japonaise";
 
 /* Pop-ups And Other Stuff */
 "BHTikTokSettings" = "BHTikTok Plus";
@@ -241,8 +241,8 @@
 "No" = "Non";
 "Confirm" = "Confirmer";
 "Cancel" = "Annuler";
-"DownloadGroup" = "Download";
-"CopyGroup" = "Copy";
+"DownloadGroup" = "Télécharger";
+"CopyGroup" = "Copie";
 "Downloading" = "Téléchargement";
 "DownloadVideo" = "Télécharger la video";
 "DownloadHDVideo" = "Télécharger la vidéo HD";
@@ -265,7 +265,7 @@
 "Success" = "Enregistré";
 "Copied" = "Copié";
 "Done" = "Fait";
-"Share" = "Share";
+"Share" = "Partager";
 "NoFollows" = "Aucun suivi";
 "FollowsYou" = "Vous suit";
 "DoesntFollowsYou" = "Abonnement";
