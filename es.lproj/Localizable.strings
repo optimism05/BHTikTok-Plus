@@ -40,10 +40,10 @@
 "CopyVideosLinkDesc" = "Añade un botón para copiar enlaces de vídeo";
 "CopyMusicsLink" = "Copiar enlace de música";
 "CopyMusicsLinkDesc" = "Añade un botón para copiar enlaces de música";
-"GroupMenuItems" = "Group Menu Items";
-"GroupMenuItemsDesc" = "Groups menu items to Download and Copy Information submenus";
-"CompactProgress" = "Compact Progress Bar";
-"CompactProgressDesc" = "Displays a compact downloading progress bar at the bottom of the screen";
+"GroupMenuItems" = "Agrupar elementos de menú";
+"GroupMenuItemsDesc" = "Agrupa las opciones de menú para descargar y copiar submenús de información";
+"CompactProgress" = "Barra de progreso compacta";
+"CompactProgressDesc" = "Muestra una barra de progreso de descarga compacta en la parte inferior de la pantalla.";
 "RemoveWatermark" = "Desactivar marcas de agua";
 "RemoveWatermarkDesc" = "Útil si quieres descargar vídeos sin marcas de agua desde el menú estándar de TikTok.";
 "DownloadProfileHeader" = "Perfil";
@@ -66,8 +66,8 @@
 "HideUIDesc" = "Añade un botón para ocultar/mostrar los botones de la interfaz";
 "UploadRegion" = "Mostrar país de subida";
 "UploadRegionDesc" = "Muestra la bandera del país de carga del vídeo junto al nombre de usuario";
-"NoPullToRefresh" = "Disable Pull To Refresh";
-"NoPullToRefreshDesc" = "Disables the gesture to refresh the feed by pulling down on the first page";
+"NoPullToRefresh" = "Desactivar gesto para actualizar";
+"NoPullToRefreshDesc" = "Desactiva el gesto de refrescar el feed tirando hacia abajo en la primera página.";
 "ShowUsername" = "Mostrar nombre de usuario";
 "ShowUsernameDesc" = "Muestra el nombre en lugar del @nick, como en las versiones anteriores";
 "TransparentComms" = "Comentarios semitransparentes";
@@ -241,8 +241,8 @@
 "No" = "No";
 "Confirm" = "Confirmar";
 "Cancel" = "Cancelar";
-"DownloadGroup" = "Download";
-"CopyGroup" = "Copy";
+"DownloadGroup" = "Descargar";
+"CopyGroup" = "Copiar";
 "Downloading" = "Descargando";
 "DownloadVideo" = "Descargar vídeo";
 "DownloadHDVideo" = "Descargar vídeo en HD";
@@ -265,8 +265,8 @@
 "Success" = "Guardado";
 "Copied" = "Copiado";
 "Done" = "Hecho";
-"Share" = "Share";
-"NoFollows" = "Sin seguir";
+"Share" = "Compartir";
+"NoFollows" = "No te sigue";
 "FollowsYou" = "Te sigue";
 "DoesntFollowsYou" = "Siguiendo";
 "Friends" = "Amigos";
